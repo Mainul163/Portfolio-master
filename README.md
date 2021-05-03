@@ -1,5 +1,5 @@
 # Portfolio
-(link)[https://mainul163.github.io/Portfolio-master/]
+[link](https://mainul163.github.io/Portfolio-master/)
 ---
 ## Features:
  * A portfolio website where in home area resume link available
